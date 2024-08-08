@@ -2,6 +2,8 @@
 
 ## Overview
 This project involves designing, implementing, and analyzing a virtual network solution based on a specific scenario. The goal is to meet the networking requirements of a medium-sized company by utilizing Cisco Packet Tracer for simulation. The project focuses on networking principles, protocols, devices, and the creation of an efficient and secure networked system.
+<img width="1597" alt="Untitled" src="https://github.com/user-attachments/assets/80495422-021a-4cec-b752-0c577fa15a98">
+
 
 ## Project Requirements
 The project was developed to fulfill the following key requirements:
